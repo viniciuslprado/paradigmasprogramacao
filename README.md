@@ -1,0 +1,1 @@
+- Arquivo relacionado a máteria de Paradigmaas de Programação.
