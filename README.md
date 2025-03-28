@@ -1,1 +1,1 @@
-- Arquivo relacionado a máteria de Paradigmaas de Programação.
+- Arquivo relacionado a máteria de Paradigmaas de Programação (Uni-facef)
